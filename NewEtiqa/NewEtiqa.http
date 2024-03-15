@@ -1,0 +1,6 @@
+@NewEtiqa_HostAddress = http://localhost:5193
+
+GET {{NewEtiqa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
